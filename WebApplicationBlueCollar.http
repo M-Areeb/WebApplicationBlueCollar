@@ -1,0 +1,6 @@
+@WebApplicationBlueCollar_HostAddress = http://localhost:5178
+
+GET {{WebApplicationBlueCollar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
